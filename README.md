@@ -22,7 +22,7 @@
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=Anamul9901&theme=onedark)
 
-![GitHub Trends SVG](https://api.githubtrends.io/user/svg/avgupta456/langs)
+![GitHub Trends SVG](https://api.githubtrends.io/user=Anamul9901&theme=dark/svg/avgupta456/langs)
 
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Anamul9901&theme=dark&border_radius=4.7)
