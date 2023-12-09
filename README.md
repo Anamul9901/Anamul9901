@@ -7,6 +7,7 @@
 
 
 
+<h2>🙋‍♂️ About Me</h2>
 
 - 🌱 I’m currently learning Full Stack 
 - 👯 I’m looking to collaborate on github 
