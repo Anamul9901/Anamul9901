@@ -19,7 +19,7 @@ Skills: REACT / JS / HTML / CSS
  
 
 
-![trophy](https://github-profile-trophy.vercel.app/?username=Anamul9901=onedark)
+![trophy](https://github-profile-trophy.vercel.app/?username=Anamul9901&theme=onedark)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Anamul9901)](https://github.com/anuraghazra/github-readme-stats)
 
