@@ -23,5 +23,5 @@ Skills: REACT / JS / HTML / CSS
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Anamul9901)](https://github.com/anuraghazra/github-readme-stats)
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=&theme=dark&border_radius=4.7)](https://git.io/streak-stats)
 
-![GitHub streak stats](https://streak-stats.demolab.com/?user=Anamul9901)  
