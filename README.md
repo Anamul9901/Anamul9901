@@ -18,7 +18,7 @@
 -📫 How to reach me anamuhaque40@gmail.com
 
  
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Anamul9901)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/anamul-haque-772264299/)  
+
 
 <a  ><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> 
 <a  ><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> 
@@ -43,16 +43,20 @@
 
 
 
-![GitHub Trends SVG](https://api.githubtrends.io/user/svg/avgupta456/langs)
 
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Anamul9901&theme=dark&border_radius=4.7)
 
 
 <h2>📊 My Github Stats</h2>
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Anamul9901&theme=dark)
 
+![GitHub Trends SVG](https://api.githubtrends.io/user/svg/avgupta456/langs)
+
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Anamul9901&theme=dark&border_radius=4.7)
+
+<h2>Connect with me:</h2>
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Anamul9901)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/anamul-haque-772264299/)  
 
 
 
