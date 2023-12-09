@@ -19,7 +19,7 @@ Skills: REACT / JS / HTML / CSS
 https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark
 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Anamul9901)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Anamul9901)]
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Anamul9901)](https://github.com/anuraghazra/github-readme-stats)
 
