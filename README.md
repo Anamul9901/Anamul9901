@@ -47,5 +47,7 @@
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Anamul9901&theme=dark)
 
+![Anamul Haque GitHub stats](https://github-readme-stats.vercel.app/api?username=Anamul9901&hide=contribs,prs)
+
 
 
