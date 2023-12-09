@@ -35,7 +35,6 @@
 
 
 
-![trophy](https://github-profile-trophy.vercel.app/?username=Anamul9901&theme=onedark)
 
 ![GitHub Trends SVG](https://api.githubtrends.io/user/svg/avgupta456/langs)
 
