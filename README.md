@@ -17,7 +17,7 @@
 
  
 Skills: REACT / JS / HTML / CSS
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+![My Skills](https://skillicons.dev/icons?i=js,html,css,github,git,mongodb,tailwind,vscode,vite,)
 
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=Anamul9901&theme=onedark)
