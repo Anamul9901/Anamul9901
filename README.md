@@ -1,4 +1,4 @@
-![A Passionate MARN Stack Developer](https://i.ibb.co/6D9pR67/Yu-Ly-OHDl-Zy0b.gif)
+![A Passionate MARN Stack Developer](https://i.ibb.co/sg6mwtK/ru-IIXbo-Af-WYH.gif)
 <h1 align="center">Hi 👋, I'm Anamul Haque</h1>
 <h3 align="center"> A Passionate MARN Stack Developer</h3>
 <br/>
