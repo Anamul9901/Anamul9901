@@ -9,13 +9,13 @@
 
 <h2>🙋‍♂️ About Me</h2>
 
-- 🌱 I’m currently learning Data Structures, Mongo DB, Express Js, React Js, Node Js and Javascript.
+- 🌱 I’m warking in Odvut Solution as a backend developer
 
 - 👯 I’m looking to collaborate on OpenSource Projects
 
 - 👨‍💻 All of my projects are available at My Portfolio
 
--📫 How to reach me anamulhaque9901@gmail.com
+- 📫 How to reach me anamulhaque9901@gmail.com
 
 <hr>
 <h2 align="center">🔥 Languages & Tools & Abilities 🔥</h2>
@@ -66,13 +66,16 @@
 </p>
 <hr>
 
-<h2>📊 My Github Stats</h2>
+<h2 align="center" >⚡ MY Stats ⚡</h2>
+
+<p align="center">
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Anamul9901&theme=dark&border_radius=4.7)</p>
+
+<p align="center">
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Anamul9901&theme=dark)
 
-![GitHub Trends SVG](https://api.githubtrends.io/user/svg/avgupta456/langs)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Anamul9901&theme=dark&border_radius=4.7)
+</p>
 
 <h2>Connect with me:</h2>
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Anamul9901)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/anamul-haque-772264299/)
