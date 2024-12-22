@@ -38,7 +38,7 @@
   <code><img title="docker" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg"></code>
   <code><img title="firebase" height="30" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg"></code>
   <code><img title="mongodb" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"></code>
-  <code><img title="nextjs" style="filter: invert(100%) sepia(0%) saturate(0%) hue-rotate(0deg) brightness(100%) contrast(100%);" height="30" src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg"></code>
+  <code><img title="nextjs" height="30" src="images/nextjs.svg"></code>
   <code><img title="nodejs" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"></code>
   <code><img title="tailwind" height="30" src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg"></code>
   <code><img title="typescript" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"></code>
