@@ -26,7 +26,7 @@
   <code><img title="Problem Solving" height="30" src="images/problemSolving.png"></code>
   <code><img title="HTML5" height="30" src="images/html5.svg"></code>
   <code><img title="CSS" height="30" src="images/css.svg"></code>
-  <code><img title="React" height="30" src="images/react-original.svg"></code>F
+  <code><img title="React" height="30" src="images/react-original.svg"></code>
   <code><img title="Redux" height="30" src="images/redux.svg"></code>
   <code><img title="Git" height="30" src="images/git-original.svg"></code>
   <code><img title="PostgreSQL" height="30" src="images/postgresql.svg"></code>
@@ -39,8 +39,7 @@
   <code><img title="nextjs" height="30" src="images/nextjs.svg"></code>
   <code><img title="nodejs" height="30" src="images/nodejs.svg"></code>
   <code><img title="tailwind" height="30" src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg"></code>
-
-    <code><img title="C" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"></code>
+  <code><img title="C" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"></code>
 
 </p>
 <hr>
