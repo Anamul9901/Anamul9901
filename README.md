@@ -2,8 +2,8 @@
 
 <br/>
 <h1 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Anamul+Haque+;Full-stack+developer&center=true&size=30">
+  <a href="https://anamul-port.netlify.app/">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Anamul+Haque+;Full-stack+developer&center=true&size=30&color=ff7c0a">
   </a>
 </h1>
 
