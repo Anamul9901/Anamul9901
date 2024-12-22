@@ -7,7 +7,6 @@
   </a>
 </h1>
 
-
 <h2>🙋‍♂️ About Me</h2>
 
 - 🌱 I’m currently learning Data Structures, Mongo DB, Express Js, React Js, Node Js and Javascript.
@@ -18,33 +17,33 @@
 
 -📫 How to reach me anamulhaque9901@gmail.com
 
-
 <hr>
 <h2 align="center">🔥 Languages & Tools & Abilities 🔥</h2>
 <br>
 <p align="center">
-  <code><img title="C" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"></code>
   <code><img title="Javascript" height="30" src="images/javascript.svg"></code>
+  <code><img title="typescript" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"></code>
   <code><img title="Problem Solving" height="30" src="images/problemSolving.png"></code>
   <code><img title="HTML5" height="30" src="images/html5.svg"></code>
   <code><img title="CSS" height="30" src="images/css.svg"></code>
-  <code><img title="React" height="30" src="images/react-original.svg"></code>
+  <code><img title="React" height="30" src="images/react-original.svg"></code>F
   <code><img title="Redux" height="30" src="images/redux.svg"></code>
   <code><img title="Git" height="30" src="images/git-original.svg"></code>
   <code><img title="PostgreSQL" height="30" src="images/postgresql.svg"></code>
+  <code><img title="prisma" height="30" src="images/prisma.svg"></code>
   <code><img title="Visual Studio Code" height="30" src="images/vscode.png"></code>
   <code><img title="GitHub" height="30" src="images/github.svg"></code>
-  <code><img title="npm" height="30" src="images/npm.svg"></code>
   <code><img title="docker" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg"></code>
   <code><img title="firebase" height="30" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg"></code>
   <code><img title="mongodb" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"></code>
   <code><img title="nextjs" height="30" src="images/nextjs.svg"></code>
-  <code><img title="nodejs" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"></code>
+  <code><img title="nodejs" height="30" src="images/nodejs.svg"></code>
   <code><img title="tailwind" height="30" src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg"></code>
-  <code><img title="typescript" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"></code>
+
+    <code><img title="C" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"></code>
+
 </p>
 <hr>
-
 
 <h2>📊 My Github Stats</h2>
 
