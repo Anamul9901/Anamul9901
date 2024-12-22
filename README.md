@@ -68,17 +68,9 @@
 
 <h2 align="center" >⚡ MY Stats ⚡</h2>
 
-<p align="center">
-
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Anamul9901&theme=dark&border_radius=4.7)
 
-</p>
-
-<p align="center">
-
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Anamul9901&theme=dark)
-
-</p>
 
 <h2>Connect with me:</h2>
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Anamul9901)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/anamul-haque-772264299/)
