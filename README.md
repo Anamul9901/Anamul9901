@@ -20,7 +20,7 @@
 <hr>
 <h2 align="center">🔥 Languages & Tools & Abilities 🔥</h2>
 <br>
-<p align="center">
+<p style="text-align: center; margin: 10px; display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;">
   <code><img title="Javascript" height="30" src="images/javascript.svg"></code>
   <code><img title="typescript" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"></code>
   <code><img title="Problem Solving" height="30" src="images/problemSolving.png"></code>
