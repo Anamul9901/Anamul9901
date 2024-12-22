@@ -31,6 +31,7 @@
   <code><img title="Git" height="30" src="images/git-original.svg"></code>
   <code><img title="PostgreSQL" height="30" src="images/postgresql.svg"></code>
   <code><img title="prisma" height="30" src="images/prisma.svg"></code>
+  <code><img title="nestjs" height="30" src="images/nestjs.svg"></code>
   <code><img title="Visual Studio Code" height="30" src="images/vscode.png"></code>
   <code><img title="GitHub" height="30" src="images/github.svg"></code>
   <code><img title="docker" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg"></code>
@@ -39,6 +40,7 @@
   <code><img title="nextjs" height="30" src="images/nextjs.svg"></code>
   <code><img title="nodejs" height="30" src="images/nodejs.svg"></code>
   <code><img title="tailwind" height="30" src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg"></code>
+  <code><img title="postman" height="30" src="images/postman.svg"></code>
   <code><img title="C" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"></code>
 
 </p>
