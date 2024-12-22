@@ -69,7 +69,10 @@
 <h2 align="center" >⚡ MY Stats ⚡</h2>
 
 <p align="center">
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Anamul9901&theme=dark&border_radius=4.7)</p>
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Anamul9901&theme=dark&border_radius=4.7)
+
+</p>
 
 <p align="center">
 
