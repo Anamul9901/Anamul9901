@@ -64,8 +64,9 @@
   <code><img title="C" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"></code>
 
 </p>
+<br><br>
 <hr>
-
+<br><br>
 <h2 align="center">⚡ MY Stats ⚡</h2>
 <br>
 <p align=center>
