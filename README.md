@@ -70,11 +70,14 @@
 <h2 align="center">Connect with me:</h2>
 <div align="center">
   <p>
-    <a href="https://github.com/Anamul9901" target="_blank">
-      <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="GitHub" height="40" style="margin: 10px;">
-    </a>
     <a href="https://www.linkedin.com/in/anamul-haque-772264299/" target="_blank">
-      <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="LinkedIn" height="40" style="margin: 10px;">
+      <img src="images/linkedin.svg" alt="LinkedIn" height="40" style="margin: 10px;">
+    </a>
+    <a href="https://www.facebook.com/Anamul114" target="_blank">
+      <img src="images/facebook.svg" alt="LinkedIn" height="40" style="margin: 10px;">
+    </a>
+    <a href="https://api.whatsapp.com/send?phone=8801864668089" target="_blank">
+      <img src="images/whatsapp.svg" alt="LinkedIn" height="40" style="margin: 10px;">
     </a>
   </p>
 </div>
