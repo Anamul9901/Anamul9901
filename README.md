@@ -71,7 +71,7 @@
 <p align=center>
   <div align=center>
     <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
-  <img align="left" width="390" src="https://streak-stats.demolab.com/?user=Anamul9901&theme=react&border=FF5733&stroke=f5881b&ring=f5881b&fire=f5881b&currStreakLabel=FFD700&background=000000&hide_border=true" alt="Anamul9901" />
+  <img align="left" width="390" src="https://streak-stats.demolab.com/?user=Anamul9901&theme=react&border=f5881b&stroke=f5881b&ring=f5881b&fire=f5881b&currStreakLabel=f5881b&background=000000&hide_border=true" alt="Anamul9901" />
 </a>
 
   </div>
