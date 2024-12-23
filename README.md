@@ -1,12 +1,14 @@
+<div align="center">
+  <img src="https://i.ibb.co/sg6mwtK/ru-IIXbo-Af-WYH.gif" alt="A Passionate MARN Stack Developer" />
+</div>
+
+
 <h1 align="center">
   <a href="https://anamul-port.netlify.app/">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Anamul+Haque+;Full-stack+developer&center=true&size=30&color=f5881b">
   </a>
 </h1>
 
-<div align="center">
-  <img src="https://i.ibb.co/sg6mwtK/ru-IIXbo-Af-WYH.gif" alt="A Passionate MARN Stack Developer" />
-</div>
 
 <br/>
 
@@ -17,6 +19,12 @@
     👯 I’m looking to collaborate on OpenSource Projects<br>
     👨‍💻 All of my projects are available at <a href="https://anamul-port.netlify.app/">My Portfolio</a><br>
     📫 How to reach me: <a href="mailto:anamulhaque9901@gmail.com">anamulhaque9901@gmail.com</a>
+  </p>
+</div>
+
+<div align="center">
+  <p>
+    I specialize in backend development, focusing on creating secure, scalable, and efficient APIs using modern technologies like Node.js, NestJS, and MongoDB. Along with backend development, I have strong expertise in frontend technologies like React, Redux, and Tailwind CSS. I enjoy working collaboratively in teams, contributing to open-source projects, and continuously learning new tools and frameworks to enhance my skillset.
   </p>
 </div>
 
