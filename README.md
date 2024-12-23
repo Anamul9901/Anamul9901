@@ -71,14 +71,12 @@
 <p align=center>
   <div align=center>
 
-
-
-
   </div>
-  <br><br><br><br><br><br><br><br><br>
   <div align=center>
   
   ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Anamul9901&theme=dark)
+
+<br><br><br><br><br><br><br><br><br>
 
 </div>
 
