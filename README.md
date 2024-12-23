@@ -7,6 +7,7 @@
   </a>
 </h1>
 
+<div align="center">
 <h2>🙋‍♂️ About Me</h2>
 
 - 🌱 I’m warking in Odvut Solution as a backend developer
@@ -16,6 +17,7 @@
 - 👨‍💻 All of my projects are available at My Portfolio
 
 - 📫 How to reach me anamulhaque9901@gmail.com
+</div>
 
 <hr>
 <h2 align="center">🔥 Languages & Tools & Abilities 🔥</h2>
@@ -81,5 +83,12 @@
 
 </div>
 
-<h2>Connect with me:</h2>
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Anamul9901)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/anamul-haque-772264299/)
+<h2 align="center">Connect with me:</h2>
+<p align="center">
+  <a href="https://github.com/Anamul9901" target="_blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="GitHub" height="40" style="margin-right: 10px; color: #333;">
+  </a>
+  <a href="https://www.linkedin.com/in/anamul-haque-772264299/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="LinkedIn" height="40" style="color: #0A66C2;">
+  </a>
+</p>
