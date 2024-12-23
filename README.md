@@ -74,10 +74,11 @@
   <img 
     align="center" 
     width="390" 
-    src="https://streak-stats.demolab.com/?user=Anamul9901&theme=react&border=FFA500&stroke=FFA500&ring=FFA500&fire=FFA500&currStreakLabel=FFA500&background=000000&hide_border=true" 
+    src="https://streak-stats.demolab.com/?user=Anamul9901&theme=react&border=FFA500&stroke=FFA500&ring=FFA500&fire=FFA500&currStreakLabel=FFD700&dates=FFD700&background=000000&hide_border=true" 
     alt="Anamul9901's GitHub Streak Stats" 
   />
 </a>
+
 
 
   </div>
