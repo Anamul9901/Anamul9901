@@ -72,10 +72,10 @@
   <p>
     <a href="https://www.linkedin.com/in/anamul-haque-772264299/" target="_blank">
       <img src="images/linkedin.svg" alt="LinkedIn" height="40" style="margin: 10px;">
-    </a>
+    </a>&nbsp;&nbsp;
     <a href="https://www.facebook.com/Anamul114" target="_blank">
       <img src="images/facebook.svg" alt="LinkedIn" height="40" style="margin: 10px;">
-    </a>
+    </a>&nbsp;&nbsp;
     <a href="https://api.whatsapp.com/send?phone=8801864668089" target="_blank">
       <img src="images/whatsapp.svg" alt="LinkedIn" height="40" style="margin: 10px;">
     </a>
