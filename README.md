@@ -70,31 +70,15 @@
 <br>
 <p align=center>
   <div align=center>
-<a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
-  <img 
-    align="center" 
-    width="390" 
-    src="https://streak-stats.demolab.com/?user=Anamul9901&theme=react&border=FFA500&stroke=FFA500&ring=FFA500&fire=FFA500&currStreakLabel=FFD700&dates=FFD700&background=000000&hide_border=true" 
-    alt="Anamul9901's GitHub Streak Stats" 
-  />
-</a>
+
 
 
 
   </div>
   <br><br><br><br><br><br><br><br><br>
   <div align=center>
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anamul9901&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true&size_weight=0.5&count_weight=0.5" />
-    </a>
-  </div>
-  <br>
-
-<div align="center">
   
-  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Anamul9901&theme=dark&border_radius=4.7)
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Anamul9901&theme=dark)
+  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Anamul9901&theme=dark)
 
 </div>
 
