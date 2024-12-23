@@ -2,13 +2,11 @@
   <img src="https://i.ibb.co/sg6mwtK/ru-IIXbo-Af-WYH.gif" alt="A Passionate MARN Stack Developer" />
 </div>
 
-
 <h1 align="center">
   <a href="https://anamul-port.netlify.app/">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Anamul+Haque+;Full-stack+developer&center=true&size=30&color=f5881b">
   </a>
 </h1>
-
 
 <br/>
 
@@ -24,7 +22,7 @@
 
 <div align="center">
   <p>
-    I specialize in backend development, focusing on creating secure, scalable, and efficient APIs using modern technologies like Node.js, NestJS, and MongoDB. Along with backend development, I have strong expertise in frontend technologies like React, Redux, and Tailwind CSS. I enjoy working collaboratively in teams, contributing to open-source projects, and continuously learning new tools and frameworks to enhance my skillset.
+    I specialize in backend development, focusing on creating secure, scalable, and efficient APIs using modern technologies like Node.js, NestJS, MongoDB, and PostgreSQL. Along with backend development, I have strong expertise in frontend technologies like React, Redux, Next.js, and Tailwind CSS. I also have experience with ORM tools like Prisma to work with databases efficiently. I enjoy working collaboratively in teams, contributing to open-source projects, and continuously learning new tools and frameworks to enhance my skillset.
   </p>
 </div>
 
